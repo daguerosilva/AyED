@@ -20,4 +20,6 @@ int main(){
     double pi = 4 * (pipos + pineg); /*A el resultado de la sucesion lo multiplico por 4 ya que el final de la misma es pi sobre 4*/
 
     cout << setprecision(7) << pi;
+    
+    return 0;
     }
