@@ -4,4 +4,4 @@ Comision: K1102
 
 Docente: Eduardo Zuñiga
 
-Compilador: Visual Studio Code
+Compilador: Visual Studio Code (MinGW32)
