@@ -13,7 +13,7 @@ int main(){
     pi += signo * (numerador / denominador);
     denominador += 2; 
     signo *= -1;
-	}
+    }
 
     cout << setprecision(7) << pi << endl;
 
